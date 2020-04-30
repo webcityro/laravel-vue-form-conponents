@@ -34,7 +34,7 @@
         "@ckeditor/ckeditor5-theme-lark": "^18.0.0",
         "@ckeditor/ckeditor5-vue": "^1.0.1",
         "css-loader": "^3.4.2",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "popper.js": "^1.16.1",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
